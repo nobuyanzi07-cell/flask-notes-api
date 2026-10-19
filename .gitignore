@@ -1,0 +1,5 @@
+app.db
+instance/
+__pycache__/
+node_modules/
+.venv/
